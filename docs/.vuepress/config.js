@@ -1,6 +1,6 @@
 module.exports = {
   dest: '../../jasonandjay.github.com/study',
-  base: '/study/',
+  base: '/',
   markdown: {
     toc: { includeLevel: [2, 3] }
   },
@@ -62,6 +62,7 @@ module.exports = {
               { text: 'React', link: '/zh/react/'},
               { text: '小程序', link: '/zh/miniapp/' },
               { text: '悦读管理后台', link: '/zh/interface/Yuedu.md'},
+              { text: 'Js', link: '/zh/js/Js.md'},
             ]
           },
           // {
